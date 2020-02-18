@@ -1,3 +1,5 @@
+#Time Tracker Nodejs#
+
 Clone the repo and install the dependencies.
 
 git clone https://github.com/reyhanatash/Tracker_Nodejs.git
