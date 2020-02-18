@@ -13,7 +13,7 @@ To start the express server, run the following
 
 npm run dev
 
-Open http://localhost:3400 and take a look around.
+Open http://localhost:3200 and take a look around.
 
 tsc
 
